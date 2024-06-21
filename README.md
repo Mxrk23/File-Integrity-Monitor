@@ -172,7 +172,7 @@ The Write-Host cmdlet on line 84 displays the message that the file has been del
   
 
 
-<img src="https://i.imgur.com/5huuAzR.jpeg"/>
+<img src="https://i.imgur.com/JufoNNI.jpg"/>
 
 
 

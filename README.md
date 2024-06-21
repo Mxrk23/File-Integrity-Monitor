@@ -107,9 +107,7 @@ Line 43: $fileHashDictionary = @{} - This is used to create a new dictionary var
 
 Line 44: This line adds a key value pair to the  $fileHashDictionary.<br>
   
-
-
-<img src="hhttps://i.imgur.com/fC1vRKj.jpeg"/>
+<img src="https://i.imgur.com/fC1vRKj.jpeg"/>
 
 
 <p align="center">

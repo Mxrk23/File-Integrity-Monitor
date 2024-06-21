@@ -1,5 +1,5 @@
 <p align="center">
-<h1>Building a File Integrity Monitor using Powershell </h1>
+<h1>Hashing Algorithms + Coding a File Integrity Monitor Using Powershell</h1>
 
 
 <h2>Overview</h2>

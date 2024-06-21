@@ -152,7 +152,7 @@ For each file stored in the $files variable will have its hash calculated and th
   
 
 
-<img src=""/>
+<img src="https://i.imgur.com/LEJAkSe.jpg"/>
 
 <p align="center">
 4) File has been deleted.

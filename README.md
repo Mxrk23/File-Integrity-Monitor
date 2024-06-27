@@ -36,7 +36,7 @@
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-1) What would you like to do?.  <br/>
+1) What would you like to do?  <br/>
 <br>My first step was to write a script that will ask users on what they would like to do. Either collect a new baseline or begin monitoring files with a saved basline. I’ve then ran the script which outputted the script purposes correctly on the PowerShell terminal.<br>
   
 

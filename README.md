@@ -10,7 +10,7 @@
 
 - If the user want to begin monitoring files with a saved baseline it will load the baseline.txt file with the hash pairs into a dictionary. This is a data structure used to store the key (filename) with it’s corresponding (hash). 
 
-- It will then store all the key values pairs in the baseline.txt file into a hash table and will continuously loop through each target files and make sure the hash always matches to the hash in the baseline. If one of the hashes ends up being different, my program will send out a security alert notifying the user/admin that something has been changed. 
+- It will then store all the key values pairs in the baseline.txt file into a hash table and will continuously loop through each target file and make sure the hash always matches to the hash in the baseline. If one of the hashes ends up being different, my program will send out a security alert notifying the user/admin that something has been changed. 
 <h2>Tools and Utilities Used</h2>
 
 - <b>VirtualBox<b>

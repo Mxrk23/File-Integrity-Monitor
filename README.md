@@ -23,11 +23,6 @@
 
 - <b>Macbook Pro<b>
 
-- <b> Server 2019 ISO (used for domain controller will house active directory)<b>
-
-- <b>2x Network Adapters (Internet + Internal VMware Network)<b>
-
-- <b>DHCP<b>
 
 - <b>PowerShell Script<b>
 
